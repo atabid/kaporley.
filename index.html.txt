@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>KAPORLEY - Style That Speaks</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="hero">
+    <img src="logo.jpg" alt="KAPORLEY Logo" class="logo"/>
+    <h1>KAPORLEY</h1>
+    <p class="tagline">STYLE THAT SPEAKS</p>
+  </header>
+
+  <section class="about">
+    <h2>About Us</h2>
+    <p>KAPORLEY is a brand that defines elegance and simplicity in fashion. We believe in style that speaks without saying a word.</p>
+  </section>
+
+  <section class="products">
+    <h2>Our Collection</h2>
+    <p>Coming Soon...</p>
+  </section>
+
+  <section class="contact">
+    <h2>Contact Us</h2>
+    <p>Email: kapor9013@gmail.com</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 KAPORLEY. All rights reserved.</p>
+  </footer>
+</body>
+</html>
